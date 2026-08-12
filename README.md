@@ -22,6 +22,14 @@ The game features four different obstacle types:
 - CMU CS Academy
 
 # Screenshots
+![Golf Project Screenshot](screenshots/Instructions.png)
+![Golf Project Screenshot](screenshots/Instructions(1).png)
+![Golf Project Screenshot](screenshots/Instructions(2).png)
+![Golf Project Screenshot](screenshots/GamePlay.png)
+![Golf Project Screenshot](screenshots/GamePlay(1).png)
+![Golf Project Screenshot](screenshots/GamePlay(2).png)
+![Golf Project Screenshot](screenshots/GamePlay(3).png)
+![Golf Project Screenshot](screenshots/Stats.png)
 
 # Reflection
 During my time working on this project, I worked with heavy limitations from the platform I was using. Since the game was created in a course, I was only allowed to use what was taught prior to this project. I could, therefore, not make use of objects, classes, and many other programming concepts. This created many challenges I had to face, especially with the implementation of the obstacles. By deciding to implement the obstacles anyways, I challenged myself to find a way to optimize my code. I chose to shape all of the obstacles in my game as rectangles and store each obstacle type's corners into dictionaries. This is how I checked the player's position relative to every block in the game.
